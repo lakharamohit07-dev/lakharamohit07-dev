@@ -7,9 +7,7 @@
   </a>
 </h1>
 
-<p align="center">
-  <img src="./banner.png" alt="Mohit Lakhara Banner" width="100%">
-</p>
+
 
 <div align="center">
 
