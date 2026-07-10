@@ -9,6 +9,7 @@
 
 <img src="banner.png" alt="MOHIT LAKHARA - Digital Fortress Architect" width="100%">
 
+---
 <div align="center">
 
 # Hi 👋, I'm Mohit G. Lakhara
