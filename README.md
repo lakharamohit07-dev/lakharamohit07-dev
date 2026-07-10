@@ -39,6 +39,41 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lakharamohit07-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+<h2>📜 Certifications</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Certificate</th>
+      <th>Issued By</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>JavaScript</td>
+      <td>Pearson VUE</td>
+      <td>April 2025</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>IBMCE</td>
+      <td>September 2025</td>
+    </tr>
+    <tr>
+      <td>Networking</td>
+      <td>Cisco Certifications</td>
+      <td>April 2026</td>
+    </tr>
+    <tr>
+      <td>Cryptography and Network Security</td>
+      <td>Indian Institute of Technology Kharagpur</td>
+      <td>May 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
