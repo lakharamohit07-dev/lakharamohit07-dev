@@ -74,6 +74,36 @@
 </table>
 
 ---
+<h2>🎓 Education</h2>
+
+<table>
+  <tr>
+    <th>Qualification</th>
+    <th>Board / University</th>
+    <th>Duration</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td><b>B.Tech – Computer Science & Engineering (Cyber Security)</b></td>
+    <td>Parul University</td>
+    <td>2024 – 2028 (Expected)</td>
+    <td>🟢 Pursuing</td>
+  </tr>
+  <tr>
+    <td><b>Higher Secondary (Class XII)</b></td>
+    <td>GSHSEB</td>
+    <td>2023-2024</td>
+    <td>✅ Completed</td>
+  </tr>
+  <tr>
+    <td><b>Secondary (Class X)</b></td>
+    <td>GSHSEB</td>
+    <td>2021-2022</td>
+    <td>✅ Completed</td>
+  </tr>
+</table>
+
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
